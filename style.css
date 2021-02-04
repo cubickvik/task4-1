@@ -1,0 +1,54 @@
+body{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+/* Header */
+.header{
+    background-color: #A52A2A;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: #FFFFFE;
+    text-align: center;
+}
+
+/* Main */
+.sunset img{
+    width: 100%;
+}
+.text1{
+    margin-top: 30px;
+}
+p{
+    font-family:unset;
+}
+.text_cursive{
+    font-style: italic;
+}
+.text_bold{
+    font-weight: bold;
+}
+.text_color{
+    font-style: italic;
+    color: #3346FF;
+}
+.cars{
+    display: flex;
+    justify-content: center;
+}
+.cars img{
+    border: 2px dashed #000000;
+    margin-left: 2px;
+}
+.text2{
+    margin-top: 30px;
+}
+
+/*Footer*/
+footer{
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 5px 0 5px 0;
+}
